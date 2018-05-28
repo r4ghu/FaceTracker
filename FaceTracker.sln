@@ -4,23 +4,26 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FaceTracker", "FaceTracker\FaceTracker.vcxproj", "{4DD8EB1D-1DF2-48FF-AC96-DF87ACFEEF97}"
+	ProjectSection(ProjectDependencies) = postProject
+		{585AEE1D-6BE2-4E56-A646-B504EF519740} = {585AEE1D-6BE2-4E56-A646-B504EF519740}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FaceTrackerLib", "FaceTrackerLib\FaceTrackerLib.vcxproj", "{585AEE1D-6BE2-4E56-A646-B504EF519740}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
 		Release|x64 = Release|x64
-		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{4DD8EB1D-1DF2-48FF-AC96-DF87ACFEEF97}.Debug|x64.ActiveCfg = Debug|x64
 		{4DD8EB1D-1DF2-48FF-AC96-DF87ACFEEF97}.Debug|x64.Build.0 = Debug|x64
-		{4DD8EB1D-1DF2-48FF-AC96-DF87ACFEEF97}.Debug|x86.ActiveCfg = Debug|Win32
-		{4DD8EB1D-1DF2-48FF-AC96-DF87ACFEEF97}.Debug|x86.Build.0 = Debug|Win32
 		{4DD8EB1D-1DF2-48FF-AC96-DF87ACFEEF97}.Release|x64.ActiveCfg = Release|x64
 		{4DD8EB1D-1DF2-48FF-AC96-DF87ACFEEF97}.Release|x64.Build.0 = Release|x64
-		{4DD8EB1D-1DF2-48FF-AC96-DF87ACFEEF97}.Release|x86.ActiveCfg = Release|Win32
-		{4DD8EB1D-1DF2-48FF-AC96-DF87ACFEEF97}.Release|x86.Build.0 = Release|Win32
+		{585AEE1D-6BE2-4E56-A646-B504EF519740}.Debug|x64.ActiveCfg = Debug|x64
+		{585AEE1D-6BE2-4E56-A646-B504EF519740}.Debug|x64.Build.0 = Debug|x64
+		{585AEE1D-6BE2-4E56-A646-B504EF519740}.Release|x64.ActiveCfg = Release|x64
+		{585AEE1D-6BE2-4E56-A646-B504EF519740}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

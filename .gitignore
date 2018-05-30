@@ -261,5 +261,5 @@ __pycache__/
 *.pyc
 
 # Don't ignore OpenCV dll's
-!external/bin/opencv_world341.dll
-!external/bin/opencv_world341d.dll
+!external/
+!external/bin/

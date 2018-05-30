@@ -161,19 +161,19 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CLM.cpp" />
-    <ClCompile Include="FCheck.cc" />
-    <ClCompile Include="FDet.cc" />
-    <ClCompile Include="IO.cc" />
-    <ClCompile Include="Patch.cc" />
-    <ClCompile Include="PAW.cc" />
-    <ClCompile Include="PDM.cc" />
+    <ClCompile Include="FCheck.cpp" />
+    <ClCompile Include="FDet.cpp" />
+    <ClCompile Include="IO.cpp" />
+    <ClCompile Include="Patch.cpp" />
+    <ClCompile Include="PAW.cpp" />
+    <ClCompile Include="PDM.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Tracker.cc" />
+    <ClCompile Include="Tracker.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

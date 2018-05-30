@@ -50,25 +50,25 @@
     <ClCompile Include="CLM.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FCheck.cc">
+    <ClCompile Include="FCheck.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FDet.cc">
+    <ClCompile Include="FDet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="IO.cc">
+    <ClCompile Include="IO.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Patch.cc">
+    <ClCompile Include="Patch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="PAW.cc">
+    <ClCompile Include="PAW.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="PDM.cc">
+    <ClCompile Include="PDM.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Tracker.cc">
+    <ClCompile Include="Tracker.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

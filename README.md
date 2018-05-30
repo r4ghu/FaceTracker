@@ -17,7 +17,7 @@ To use this app, open **FaceTracker.sln** in Visual Studio 2017 and run it.
 
 Please note that this software is **NOT** for commercial purposes. 
 
-However if you are interested is using this software for commercial applications, please feel free to request a quote at [LINK](http://facetracker.net/quote/) and follow the software download link provided by that link. 
+However if you are interested is using this software for commercial applications, please feel free to request a quote at [LINK](http://facetracker.net/quote/) and follow the software download link provided by them. 
 
 You can use this software for non-commercial, academic and research purposes without any license constraints. You need to add the following citations in your paper if you're using this software:
 
@@ -26,6 +26,8 @@ J. M. Saragih, S. Lucey, and J. F. Cohn.
 Face Alignment through Subspace Constrained Mean-Shifts. 
 International Conference of Computer Vision (ICCV), September, 2009.
 ``` 
+
+Also, please feel free to read the `other\license.md` file and contact the authors if you have any doubts. The GPL v3.0 licence I added is valid for the modifications I made (and might make in future). This repo is provided with good hope that Windows users can find it as a quick-start for experimenting with faces. The CMake lovers can find the Github Link provided in `References` section much helpful.
 
 ## References
 

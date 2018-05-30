@@ -22,7 +22,9 @@ However if you are interested is using this software for commercial applications
 You can use this software for non-commercial, academic and research purposes without any license constraints. You need to add the following citations in your paper if you're using this software:
 
 ```
-J. M. Saragih, S. Lucey, and J. F. Cohn. Face Alignment through Subspace Constrained Mean-Shifts. International Conference of Computer Vision (ICCV), September, 2009.
+J. M. Saragih, S. Lucey, and J. F. Cohn. 
+Face Alignment through Subspace Constrained Mean-Shifts. 
+International Conference of Computer Vision (ICCV), September, 2009.
 ``` 
 
 ## References
